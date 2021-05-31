@@ -1,1 +1,4 @@
 # SeleniumScripts
+Login
+Condition
+Exerciti
